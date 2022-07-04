@@ -1,0 +1,43 @@
+<?php
+
+return [
+
+    'dashboard' => 'الرئيسية',
+    'dashboard_page' => 'لوحة التحكم',
+    'main_title' => 'برنامج  لادارة المدارس',
+    'programname' => 'برنامج  لادارة المدارس',
+    'change_language' => 'تغير اللغة',
+    'grades' => 'نوع الدراسة',
+    'add_grade' => 'اضافة نوع',
+    'grades_list' => 'قائمة انوع الدراسة',
+    'classes' => 'الصفوف',
+    'list_classes' => 'قائمة الصفوف الدراسية',
+    'sections' => 'الاقسام',
+    'list_sections' => 'قائمة الاقسام الدراسية',
+    'students' => 'الطلاب',
+    'student_information' => 'معلومات الطلاب',
+    'add_student' => 'اضافة طالب جديد',
+    'list_students' => 'قائمة الطلاب',
+    'students_promotions' => 'ترقية الطلاب',
+    'add_promotion' => 'اضافة ترقية جديدة',
+    'list_promotions' => 'قائمة الترقيات',
+    'graduate_students' => 'الطلاب المتخرجين',
+    'add_graduate' => 'اضافة تخرج جديد',
+    'list_graduate' => 'قائمة التخرجات',
+    'teachers' => 'المعلمين',
+    'list_teachers' => 'قائمة المعلمين',
+    'parents' => 'اولياء الامور',
+    'list_parents' => 'قائمة اولياء الامور',
+    'add_parent' => 'اضافة ولي امر',
+    'accounts' => 'الحسابات',
+    'attendance' => 'الحضور والغياب',
+    'exams' => 'الامتحانات',
+    'library' => 'المكتبة',
+    'online_classes' => 'حصص اونلاين',
+    'settings' => 'الاعدادات',
+    'users' => 'المستخدمين',
+    'copyright' => 'جميع الحقوق محفوظة ',
+    'name_programer' => 'قاسم صلاح الهاشمي',
+
+
+];
